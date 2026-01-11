@@ -6,4 +6,7 @@
 
 ### FR-01 Manage Students
 
-System can export to Excel
+
+
+System must include export to excel
+
