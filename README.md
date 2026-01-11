@@ -6,4 +6,4 @@
 
 ### FR-01 Manage Students
 
-The system shall allow teachers to add, update, delete, and search students.
+System can export to Excel
